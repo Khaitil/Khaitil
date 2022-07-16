@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khaitil
-- 👀 I’m interested in coding, web programming, design, and front-end developer.
+- 👀 I’m interested in coding, web programming, UI/UX design, and front-end developer.
 - 🌱 I’m currently learning basic HTML 5, CSS 3, and, javaScript
 - 💞️ I’m a freelancer
 - 📫 find me on instagram @khaitilaswandi
